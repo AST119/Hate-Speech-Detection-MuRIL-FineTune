@@ -117,13 +117,6 @@ multilingual-hate-speech-detection/
 ├── requirements.txt
 ├── README.md
 │
-├── model/
-│   ├── config.json
-│   ├── model.safetensors
-│   ├── tokenizer.json
-│   ├── tokenizer_config.json
-│   └── special_tokens_map.json
-│
 ├── notebooks/
 │   └── training_notebook.ipynb
 │
