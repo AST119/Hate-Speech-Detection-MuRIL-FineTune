@@ -209,7 +209,5 @@ Hate Speech
 
 ## Author
 
-**Your Name**
+**Aaditya Singh Tariyal**
 
-GitHub: YOUR_GITHUB_URL  
-LinkedIn: YOUR_LINKEDIN_URL
